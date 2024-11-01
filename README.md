@@ -80,7 +80,7 @@ Si tienes alguna pregunta o deseas colaborar en un proyecto, no dudes en contact
 
 <p align="center">
   <a href="mailto:arturotrejo99@gmail.com"><img src="https://img.shields.io/badge/Email-arturotrejo99@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="www.linkedin.com/in/arturo-trejo-7a4a0825a"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin"></a>
+  <a href="www.linkedin.com"><img src="www.linkedin.com/in/arturo-trejo-7a4a0825a""></a>
 </p>
 
 - **Teléfono**: 5628086328
