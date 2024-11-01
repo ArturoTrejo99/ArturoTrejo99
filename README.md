@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/100" alt="Logo Personal" width="100" height="100"/>
-</p>
 
 <h1 align="center">Portafolio de Arturo Trejo Juárez</h1>
 
@@ -21,9 +18,6 @@
 
 ## 🧑‍💻 Sobre Mí
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1559027615-919f891ab15f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDd8fGRldmVsb3BlcnxlbnwwfHx8fDE2Mzk3NjY4NTQ&ixlib=rb-1.2.1&q=80&w=400" alt="Sobre Mí" />
-</p>
 
 Soy un desarrollador apasionado por la tecnología y la innovación, con un enfoque detallado en la optimización de sistemas y la automatización de procesos. Cuento con experiencia en el desarrollo de aplicaciones web, análisis de datos y diseño de bases de datos, así como en consultoría para la transformación digital. Mi formación incluye:
 
@@ -34,9 +28,6 @@ Soy un desarrollador apasionado por la tecnología y la innovación, con un enfo
 
 ## 🛠️ Tecnologías
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHRlY2hub2xvZ2llc3xlbnwwfHx8fDE2Mzk3Njg1ODc&ixlib=rb-1.2.1&q=80&w=400" alt="Tecnologías" />
-</p>
 
 Estas son algunas de las tecnologías y herramientas con las que trabajo habitualmente:
 
@@ -56,9 +47,6 @@ A continuación, algunos de los proyectos más relevantes que he desarrollado:
 
 ### 📋 Sistema de Historial Clínico y Recetas Digitales
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1603791452906-9ec9f1b950b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDI1fHxtZWRpY2FsJTIwc29mdHdhcmV8ZW58MHx8fHwxNjM5NzY4NjE4&ixlib=rb-1.2.1&q=80&w=400" alt="Proyecto 1" />
-</p>
 
 **Descripción**: Desarrollo de un sistema de historial clínico utilizando Python, así como un sistema digital de recetas médicas.  
 **Tecnologías**: Python, SQL Server  
@@ -69,9 +57,7 @@ A continuación, algunos de los proyectos más relevantes que he desarrollado:
 
 ### 💼 Implementación de Funcionalidades en Ecosystem
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDI1fHxlbnRlcnByaXNlfGVufDB8fHx8MTYzOTc2ODczMQ&ixlib=rb-1.2.1&q=80&w=400" alt="Proyecto 2" />
-</p>
+
 
 **Descripción**: Como Hybris Developer en Ecosystem, desarrollé nuevas funcionalidades y ajustes en servicios de middleware, venta cruzada, y servicios OCC.  
 **Tecnologías**: Hybris, Java, Postman, Swagger  
